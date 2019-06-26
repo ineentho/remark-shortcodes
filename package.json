@@ -1,5 +1,5 @@
 {
-  "name": "remark-shortcodes",
+  "name": "@ineentho/remark-shortcodes",
   "version": "0.3.0",
   "description": "Shortcode parser plugin for Remark",
   "main": "index.js",
